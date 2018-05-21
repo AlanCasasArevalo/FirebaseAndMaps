@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "24912286054",
+    "firebase_url": "https://wizinktesting.firebaseio.com",
+    "project_id": "wizinktesting",
+    "storage_bucket": "wizinktesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24912286054:android:c5db6cc87cb8c967",
+        "android_client_info": {
+          "package_name": "com.example.acasasar.firebaseandmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24912286054-soei9fts4bkp3ol3kmkqc94f8nr9rklb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvulnCXoIwlaKZjgOg61s36q7bBf4zpzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
